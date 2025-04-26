@@ -1089,6 +1089,7 @@ section {
 .contact .info .phone,
 .contact .info .linkedin,
 .contact .info .github,
+.contact .info .leetcode,
 .contact .info .instagram{
   margin-top: 40px;
 }
@@ -1097,6 +1098,7 @@ section {
 .contact .info .address:hover i,
 .contact .info .phone:hover i,
 .contact .info .github:hover i,
+.contact .info .leetcode:hover i,
 .contact .info .linkedin:hover i,
 .contact .info .instagram:hover i {
   background: #34b7a7;
